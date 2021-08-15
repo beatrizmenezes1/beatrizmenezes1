@@ -1,6 +1,6 @@
 Hi guys! Eu sou a Bea...
 
-- 📚 Estudando Python.
+- 📚 Estudando Python e C.
 - 👩🏻‍💼 Pronome: Ela/dela.
 - 💡 Curiosidades: BEA é meu apelido e amo jogar.
 
