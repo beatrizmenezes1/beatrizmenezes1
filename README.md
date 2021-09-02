@@ -7,8 +7,8 @@ Hi guys! Eu sou a Bea...
 <div>
   <a href="https://github.com/beatrizmenezes1">
   <hr>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizmenezes1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmenezes1&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatrizmenezes1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmenezes1&layout=compact&langs_count=7&theme=radical"/>
    <br>
   <img height="200em"src="https://img.freepik.com/vetores-gratis/controle-numero-um-e-videogame-parede-de-tijolos-estilo-neon_24908-58767.jpg?size=338&ext=jpg"/>
     
