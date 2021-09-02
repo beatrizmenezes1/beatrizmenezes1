@@ -20,10 +20,10 @@ Hi guys! Eu sou a Bea...
   <hr>
   
 <div style="display: inline_block">
-  <img align="center" alt="Bea-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bea-C" height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png">
-  <img align="center" alt="Bea-MySQL" height="70" width="70" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img align="center" alt="Bea-MySQL" height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"/>
+  <img align= "center" alt= "Bea-Python" height="50" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align= "center" alt= "Bea-C" height="50" width="50" src= "https://img.icons8.com/color/48/000000/c-programming.png" />
+  <img align= "center" alt= "Bea-MySQL" height="70" width="70" src= "https://img.icons8.com/color/48/000000/mysql-logo.png" />
+  <img align= "center" alt= "Bea-MySQL" height="50" width="70" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />
   
 </div>
 
