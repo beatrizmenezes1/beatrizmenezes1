@@ -1,9 +1,10 @@
 Hi guys! Eu sou a Bea...
 
-- 📚 Estudando Python, C, MySQL, HTML5 e CSS3.
+- 📚 Estudando/Estagiando.
+- 👩🏻‍💻 Dev Front-End.
 - 👩🏻‍💼 Pronome: Ela/dela.
 - 💡 Curiosidades: BEA é meu apelido e amo jogar.
-- Email: beatrizmz.26menezes@gmail.com
+- 📧 Email: beatrizmz.26menezes@gmail.com
 
 <div>
   <a href="https://github.com/beatrizmenezes1">
