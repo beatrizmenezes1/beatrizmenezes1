@@ -29,6 +29,7 @@ Hi guys! Eu sou a Bea...
   <img align= "center" alt= "Bea-HtmlCss" height="60" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />
   <img align= "center" alt= "Bea-Git" height="60" width="70" src = "https://img.icons8.com/color/48/000000/git.png"/>
   <img align= "center" alt= "Bea-Node.js" height="80" width="80" src = "https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img align= "center" alt= "Bea-Angular" height="50" width="50" src = "https://avatars.githubusercontent.com/u/18171845?v=4"/>
 </div>
 
 
