@@ -1,7 +1,6 @@
 Hi guys! Eu sou a Bea...
 
 - 📚 Estudando/Estagiando.
-- 👩🏻‍💻 Dev Front-End.
 - 👩🏻‍💼 Pronome: Ela/dela.
 - 💡 Curiosidades: BEA é meu apelido e amo jogar.
 - 📧 Email: beatriz26menezes1@gmail.com
